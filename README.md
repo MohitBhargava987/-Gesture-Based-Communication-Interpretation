@@ -8,4 +8,5 @@ About Project:
 
 
 how to install:
-write npm install in both the folders to install node packages.
+Write npm install in both the folders to install node packages.
+Write npm start fot both the folders/projects to start the project on two different ports.
